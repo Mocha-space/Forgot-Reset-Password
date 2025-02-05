@@ -8,17 +8,6 @@ This project is a full-stack authentication system built with React for the fron
 - **Reset Password Page:** Users can reset their password using an OTP sent to their email.
 - **Email OTP Verification:** The backend sends a one-time password (OTP) to the user's email using Nodemailer for secure password reset.
 
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Features
 
 - **User Registration:** Easy signup with secure data handling.
@@ -34,8 +23,6 @@ This project is a full-stack authentication system built with React for the fron
 - **Backend:** Node.js, Express
 - **Email Service:** Nodemailer
 - **Other Tools:** Git, npm/yarn
-
-## Installation
 
 ### Prerequisites
 
